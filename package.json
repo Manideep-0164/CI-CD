@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Manideep-0164/CI-CD/issues"
   },
-  "homepage": "https://github.com/Manideep-0164/CI-CD#readme"
+  "homepage": "https://github.com/Manideep-0164/CI-CD#readme",
+  "dependencies": {
+    "shortid": "^2.2.16"
+  }
 }

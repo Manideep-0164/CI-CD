@@ -1,1 +1,4 @@
-console.log("Hellow")
+
+const shortid = require("shortid");
+
+console.log(shortid.generate());
